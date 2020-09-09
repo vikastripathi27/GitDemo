@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-09T12:25:58 IST" name="Surefire suite" finished-at="2020-09-09T12:25:58 IST" duration-ms="77">
+    <groups>
+    </groups>
+    <test started-at="2020-09-09T12:25:58 IST" name="Surefire test" finished-at="2020-09-09T12:25:58 IST" duration-ms="77">
+      <class name="Facebook.LoginPageTest">
+        <test-method signature="ClickOnLogin()[pri:0, instance:Facebook.LoginPageTest@6302bbb1]" started-at="2020-09-09T12:25:58 IST" name="ClickOnLogin" finished-at="2020-09-09T12:25:58 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnLogin -->
+        <test-method signature="EnterDetails()[pri:0, instance:Facebook.LoginPageTest@6302bbb1]" started-at="2020-09-09T12:25:58 IST" name="EnterDetails" finished-at="2020-09-09T12:25:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetails -->
+      </class> <!-- Facebook.LoginPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

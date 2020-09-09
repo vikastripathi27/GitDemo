@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-09T13:46:39 IST" name="Suite" finished-at="2020-09-09T13:46:58 IST" duration-ms="19300">
+    <groups>
+    </groups>
+    <test started-at="2020-09-09T13:46:39 IST" name="Test" finished-at="2020-09-09T13:46:58 IST" duration-ms="19300">
+      <class name="Facebook.LoginPage">
+        <test-method signature="HomePage()[pri:0, instance:Facebook.LoginPage@3c947bc5]" started-at="2020-09-09T13:46:39 IST" name="HomePage" finished-at="2020-09-09T13:46:58 IST" duration-ms="19156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+      </class> <!-- Facebook.LoginPage -->
+      <class name="Facebook.LoginPageTest">
+        <test-method signature="ClickOnLogin()[pri:0, instance:Facebook.LoginPageTest@609db43b]" started-at="2020-09-09T13:46:58 IST" name="ClickOnLogin" finished-at="2020-09-09T13:46:58 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnLogin -->
+        <test-method signature="EnterDetails()[pri:0, instance:Facebook.LoginPageTest@609db43b]" started-at="2020-09-09T13:46:58 IST" name="EnterDetails" finished-at="2020-09-09T13:46:58 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetails -->
+      </class> <!-- Facebook.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
